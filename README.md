@@ -1,7 +1,7 @@
 # ASE Calc Microservice
 
 [![Coverage Status](https://coveralls.io/repos/github/teto1992/calc2021/badge.svg?branch=main)](https://coveralls.io/github/teto1992/calc2021?branch=main)
-[![Coverage Status](https://coveralls.io/repos/github/Elkosta/CalculatorTest/badge.svg?branch=master)](https://coveralls.io/github/Elkosta/CalculatorTest?branch=master)
+
 ### Setup the environment
 
 To setup the environment, you should follow these steps:
