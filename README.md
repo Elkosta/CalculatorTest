@@ -1,7 +1,7 @@
 # ASE Calc Microservice
 
 [![Coverage Status](https://coveralls.io/repos/github/Elkosta/CalculatorTest/badge.svg?branch=master)](https://coveralls.io/github/Elkosta/CalculatorTest?branch=master)
-
+[![Build Status](https://app.travis-ci.com/Elkosta/CalculatorTest.svg?branch=master)](https://app.travis-ci.com/Elkosta/CalculatorTest)
 ### Setup the environment
 
 To setup the environment, you should follow these steps:
